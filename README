@@ -1,0 +1,13 @@
+This is a Tic Tac Toe Game make up of HTML CSS and JAVASCRIPT
+
+
+
+-> In this game there is information button which shown whose next turn is .
+-> It also shows the winner 
+-> and also shows if game is tied 
+
+
+After game is tied or any player wins then  start game button becomes visible and user can restart the game by using that button 
+again after game is restarted game start button  diappears from screen.
+
+
